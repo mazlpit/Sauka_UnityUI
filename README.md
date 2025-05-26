@@ -10,7 +10,7 @@ Darāmo darbu saraksts:
 
 - [x] Var izvēlēties divus tēlus, kurus var apģērbt
 
-- [ ] Var izvēlēties atbilstošu apģērbu un ar toogle pogu var paslēpt un parādīt
+- [x] Var izvēlēties atbilstošu apģērbu un ar toogle pogu var paslēpt un parādīt
 
 - [x] Ir drag and drop skripts piesaistīts apģerbiem un var uzvilkt uz tēla
 
