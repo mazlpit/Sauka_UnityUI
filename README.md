@@ -20,4 +20,5 @@ Darāmo darbu saraksts:
 
 - [x] Ir 2 slider, kur var apmainīt garumu un platumu tēlam un apģērbam.
 
-![image](https://github.com/user-attachments/assets/ddfcc936-1b30-4aed-81fb-bc4...)
+![image](https://github.com/user-attachments/assets/4ec999af-4033-4def-a3dc-65ad20d128e8)
+
