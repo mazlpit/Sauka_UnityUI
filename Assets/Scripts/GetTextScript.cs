@@ -18,12 +18,19 @@ public class GetTextScript : MonoBehaviour
 
         if (int.TryParse(textAge, out int birthYear))
         {
-            dzGads = 2025 - birthYear;
-            textField.text = "Player " + textName.ToUpper() + " is " + dzGads + " years old!";
+            if (birthYear > 0 && birthYear <= 2025)
+            {
+                dzGads = 2025 - birthYear;
+                textField.text = "Player " + textName.ToUpper() + " is " + dzGads + " years old!";
+            }
+            else
+            {
+                textField.text = "Please enter a valid birth year (1–2025).";
+            }
         }
         else
         {
-            textField.text = "Please enter a valid number for age.";
+            textField.text = "Please enter a valid number for the birth year.";
         }
     }
 }
